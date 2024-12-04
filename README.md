@@ -27,7 +27,7 @@ This project demonstrates real-time face detection using Haar cascade classifier
    python facedetection.py
    ```
 
-2. The script will activate your webcam and start detecting faces in real time. Press `q` to quit the application.
+2. The script will activate your webcam and start detecting faces in real time. Press `Esc` to quit the application.
 
 ## Code Explanation
 
